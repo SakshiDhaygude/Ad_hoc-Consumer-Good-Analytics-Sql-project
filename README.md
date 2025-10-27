@@ -1,6 +1,5 @@
 # Ad_hoc-Consumer-Good-Analytics-Sql-project
 # Consumer-Goods-Analytics
-This project is part of data analytics bootcamp at codebasics.
 
 ##  Project Overview
 
